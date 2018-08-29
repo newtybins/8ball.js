@@ -2,8 +2,8 @@
 A Node.JS package that brings the almighty 8ball to your project, and your command line.
 
 ## installation
-```shell
-node i --save @noneissome/eight-ball
+```
+npm i --save @noneissome/eight-ball
 ```
 
 ## usage
