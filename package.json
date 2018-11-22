@@ -1,7 +1,7 @@
 {
-  "name": "@noneissome/eight-ball",
+  "name": "8ball.js",
   "version": "1.0.0",
-  "description": "Brings the almighty 8ball to your Node.JS project, and command line!",
+  "description": "Brings 8ball to your command line, and your projects.",
   "main": "index.js",
   "keywords": [
     "magic",
@@ -14,12 +14,13 @@
     "8ball": "cli.js",
     "eight-ball": "cli.js",
     "eightball": "cli.js",
-    "ball": "cli.js"
+    "ball": "cli.js",
+    "8ball.js": "cli.js"
   },
-  "author": "noneissome",
+  "author": "Jacob Smith",
   "bugs": {
-    "url": "https://github.com/noneissome/eight-ball/issues"
+    "url": "https://github.com/jacobisaacsmith/8ball.js/issues"
   },
-  "homepage": "https://github.com/noneissome/eight-ball",
+  "homepage": "https://github.com/jacobisaacsmith/8ball.js",
   "license": "MIT"
 }

@@ -1,22 +1,22 @@
-# eight-ball
-A Node.JS package that brings the almighty 8ball to your project, and your command line.
+# 8ball.js
+Brings 8ball to your command line, and your projects.
 
 ## installation
 ```
-npm i --save @noneissome/eight-ball
+npm i --save 8ball.js
 ```
 
 ## usage
 ```js
-const ball = require('eight-ball')();
+const ball = require('8ball.js')();
 console.log(`Are we all doomed? ${ball}`); 
 // Are we all doomed? it is decidedly so
 ```
 
 ## cli
-8ball, ball, eightball or eight-ball
+8ball, ball, eightball, eight-ball or 8ball.js
 ```
-$ npm i -g @noneissome/eight-ball
+$ npm i -g 8ball.js
 ```
 
 ```
