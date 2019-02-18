@@ -1,7 +1,7 @@
 {
   "name": "8ball.js",
   "version": "1.0.0",
-  "description": "Brings 8ball to your command line, and your projects.",
+  "description": "Brings 8ball to your nodejs projects.",
   "main": "index.js",
   "keywords": [
     "magic",
@@ -10,17 +10,16 @@
     "8",
     "8ball"
   ],
-  "bin": {
-    "8ball": "cli.js",
-    "eight-ball": "cli.js",
-    "eightball": "cli.js",
-    "ball": "cli.js",
-    "8ball.js": "cli.js"
-  },
   "author": "Jacob Smith",
   "bugs": {
     "url": "https://github.com/jsmiith/8ball.js/issues"
   },
   "homepage": "https://github.com/jsmiith/8ball.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.14.0",
+    "eslint-config-prettier": "^4.0.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.16.4"
+  }
 }
