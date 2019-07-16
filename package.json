@@ -3,12 +3,13 @@
   "version": "1.1.0",
   "description": "Brings 8ball to your nodejs projects.",
   "main": "index.js",
+  "author": "Jacob Smith",
+  "license": "MIT",
   "keywords": [
     "magic",
     "eight",
     "ball",
     "8",
     "8ball"
-  ],
-  "author": "Jacob Smith"
+  ]
 }
